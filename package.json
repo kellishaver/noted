@@ -1,0 +1,14 @@
+{
+  "name": "Noted",
+  "version": "1.0.0",
+  "description": "a simple command line note taking app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kelli Shaver",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^7.0.1"
+  }
+}
